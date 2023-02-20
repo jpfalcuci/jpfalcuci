@@ -1,4 +1,4 @@
-<img src="computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/jpfalcuci/jpfalcuci/main/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <h2>Hello World ☕</h2>
 
