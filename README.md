@@ -7,7 +7,7 @@
     Desde o início de 2022 estudo programação. Atualmente trabalho como Analista de Informática e curso Desenvolvimento de Software Multiplataforma, na Fatec (Franca-SP).
 </p>
 
-<p align="left">🦄 Linguagens que uso/estudo:
+<p align="left">🦄 Linguagens:
     <abbr title="HTML"><img align="center" alt="Icon HTML" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></abbr>
     <abbr title="CSS"><img align="center" alt="Icon CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></abbr>
     <abbr title="Sass"><img align="center" alt="Icon SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></abbr>
@@ -18,7 +18,7 @@
     <abbr title="PHP"><img align="center" alt="Icon PHP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></abbr>
 </p>
 
-<p align="left">💼 Ferramentas que uso/estudo:
+<p align="left">💼 Ferramentas:
     <abbr title="Visual Studio Code"><img align="center" alt="Icon VSCode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></abbr>
     <abbr title="Linux"><img align="center" alt="Icon Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></abbr>
     <abbr title="Git"><img align="center" alt="Icon Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></abbr>
