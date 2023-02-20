@@ -8,23 +8,23 @@
 </p>
 
 <p align="left">🦄 Linguagens que uso/estudo:
-    <img align="center" alt="Icon HTML" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-    <img align="center" alt="Icon CSS" height="30"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-    <img align="center" alt="Icon SASS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img align="center" alt="Icon Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img align="center" alt="Icon Javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-    <img align="center" alt="Icon Python" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="Icon Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img align="center" alt="Icon PHP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <abbr title="HTML"><img align="center" alt="Icon HTML" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" /></abbr>
+    <abbr title="CSS"><img align="center" alt="Icon CSS" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" /></abbr>
+    <abbr title="Sass"><img align="center" alt="Icon SASS" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></abbr>
+    <abbr title="Booststrap"><img align="center" alt="Icon Bootstrap" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></abbr>
+    <abbr title="Javascript"><img align="center" alt="Icon Javascript" height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></abbr>
+    <abbr title="Python"><img align="center" alt="Icon Python" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /></abbr>
+    <abbr title="Java"><img align="center" alt="Icon Java" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></abbr>
+    <abbr title="PHP"><img align="center" alt="Icon PHP" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></abbr>
 </p>
 
 <p align="left">💼 Ferramentas que uso/estudo:
-    <img align="center" alt="Icon VSCode" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="Icon Linux" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Icon Git" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-    <img align="center" alt="Icon Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" alt="Icon MySQL" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Icon Docker" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <abbr title="Visual Studio Code"><img align="center" alt="Icon VSCode" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></abbr>
+    <abbr title="Linux"><img align="center" alt="Icon Linux" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></abbr>
+    <abbr title="Git"><img align="center" alt="Icon Git" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></abbr>
+    <abbr title="Figma"><img align="center" alt="Icon Figma" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></abbr>
+    <abbr title="MySQL"><img align="center" alt="Icon MySQL" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></abbr>
+    <abbr title="Docker"><img align="center" alt="Icon Docker" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /></abbr>
 </p>
 
 <p align="left">💌 Entre em contato: ⤵️</p>
