@@ -24,6 +24,7 @@
 
 <p align="left">📚 Estudando:
     <abbr title="Javascript"><img align="center" alt="Icon Javascript" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" /></abbr>
+    <abbr title="Vue"> <img align="center" alt="Icon Vue" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></abbr>
     <abbr title="Java"><img align="center" alt="Icon Java" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /></abbr>
     <abbr title="PHP"><img align="center" alt="Icon PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></abbr>
     <abbr title="Figma"><img align="center" alt="Icon Figma" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /></abbr>
