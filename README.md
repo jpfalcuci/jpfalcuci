@@ -8,8 +8,7 @@
 - 🌱 I’m studying Multiplatform Software Development at Fatec - Franca/SP
 - 💼 I’m working as a Computer Analyst
 - 👀 I’m interested in building a career in backend/devops area
-- 💡 I’m currently building a [complete system from scratch](https://github.com/LevaDieselMarioRoberto/controle_de_entregas)
-- 💞️ I like rock, beer, games, books, series, films, anime and cats
+- 💞️ I like rock, beer, games, books, series, films, animes and cats
 
 ### languages | frameworks | tools ⚒️
 
